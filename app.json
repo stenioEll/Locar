@@ -1,0 +1,9 @@
+{
+  "name": "ProjetoEmbarcados",
+  "displayName": "ProjetoEmbarcados",
+  "splash": {
+    "image":"./assets/splash.png",
+    "resizeMode":"cover",
+    "backgroundColor":"#000"
+  }
+}
